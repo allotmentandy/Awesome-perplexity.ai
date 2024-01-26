@@ -31,6 +31,10 @@ https://www.linkedin.com/company/perplexity-ai
 
 https://www.youtube.com/channel/UCYqxnCFtaC4-iC_bwt2bRLg
 
+## Reddit Posts
+
+https://www.reddit.com/r/perplexity_ai/
+
 ## Prompts
 
 [what are some common mistakes to avoid when using prompts in perplexity ai](https://www.perplexity.ai/search/what-are-the-h1vuJicCS7StiWpf4_2FUg?s=c#460da5a9-30e2-4cd6-ab81-9db2a1e91930)
