@@ -7,6 +7,14 @@ https://labs.perplexity.ai/
 
 https://blog.perplexity.ai/
 
+## faq
+
+https://blog.perplexity.ai/faq
+
+## Careers jobs
+
+https://blog.perplexity.ai/careers
+
 ## Short url
 
 https://pplx.ai
