@@ -2,6 +2,7 @@
 An awesome list for perplexity.ai
 
 https://www.perplexity.ai/
+
 https://labs.perplexity.ai/
 
 Chrome extension
