@@ -5,6 +5,8 @@ https://www.perplexity.ai/
 
 https://labs.perplexity.ai/
 
+https://blog.perplexity.ai/
+
 ## Short url
 
 https://pplx.ai
