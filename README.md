@@ -11,9 +11,21 @@ https://blog.perplexity.ai/
 
 https://blog.perplexity.ai/faq
 
+https://blog.perplexity.ai/technical-faq
+
+## models
+
+https://blog.perplexity.ai/blog/introducing-pplx-online-llms
+
 ## Careers jobs
 
 https://blog.perplexity.ai/careers
+
+## docs
+
+https://docs.perplexity.ai/
+
+https://docs.perplexity.ai/discuss
 
 ## Short url
 
