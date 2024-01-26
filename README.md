@@ -5,6 +5,10 @@ https://www.perplexity.ai/
 
 https://labs.perplexity.ai/
 
+## Short url
+
+https://pplx.ai
+
 ## Chrome extension to make perplexity.ai the default search engine
 
 https://chrome.google.com/webstore/detail/perplexity-ai-search/bnaffjbjpgiagpondjlnneblepbdchol
@@ -16,6 +20,14 @@ https://twitter.com/i/lists/1750921775251071019
 ## Discord chat room
 
 https://discord.com/invite/perplexity-ai
+
+## LinkedIn
+
+https://www.linkedin.com/company/perplexity-ai
+
+## Youtube Channel
+
+https://www.youtube.com/channel/UCYqxnCFtaC4-iC_bwt2bRLg
 
 ## Prompts
 
