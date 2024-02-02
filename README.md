@@ -1,4 +1,4 @@
-# Awesome-perplexity.ai
+# Awesome perplexity ai
 An awesome list for perplexity.ai
 
 https://www.perplexity.ai/
